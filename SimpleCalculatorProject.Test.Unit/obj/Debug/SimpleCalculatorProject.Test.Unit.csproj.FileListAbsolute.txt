@@ -1,0 +1,17 @@
+C:\Users\gr\source\repos\SimpleCalculator\SimpleCalculatorProject.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\gr\source\repos\SimpleCalculator\SimpleCalculatorProject.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\gr\source\repos\SimpleCalculator\SimpleCalculatorProject.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\gr\source\repos\SimpleCalculator\SimpleCalculatorProject.Test.Unit\bin\Debug\SimpleCalculatorProject.Test.Unit.dll
+C:\Users\gr\source\repos\SimpleCalculator\SimpleCalculatorProject.Test.Unit\bin\Debug\SimpleCalculatorProject.Test.Unit.pdb
+C:\Users\gr\source\repos\SimpleCalculator\SimpleCalculatorProject.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\gr\source\repos\SimpleCalculator\SimpleCalculatorProject.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\gr\source\repos\SimpleCalculator\SimpleCalculatorProject.Test.Unit\bin\Debug\SimpleCalculator.exe
+C:\Users\gr\source\repos\SimpleCalculator\SimpleCalculatorProject.Test.Unit\bin\Debug\SimpleCalculator.pdb
+C:\Users\gr\source\repos\SimpleCalculator\SimpleCalculatorProject.Test.Unit\bin\Debug\SimpleCalculator.exe.config
+C:\Users\gr\source\repos\SimpleCalculator\SimpleCalculatorProject.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\gr\source\repos\SimpleCalculator\SimpleCalculatorProject.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\gr\source\repos\SimpleCalculator\SimpleCalculatorProject.Test.Unit\obj\Debug\SimpleCalculatorProject.Test.Unit.csprojAssemblyReference.cache
+C:\Users\gr\source\repos\SimpleCalculator\SimpleCalculatorProject.Test.Unit\obj\Debug\SimpleCalculatorProject.Test.Unit.csproj.CoreCompileInputs.cache
+C:\Users\gr\source\repos\SimpleCalculator\SimpleCalculatorProject.Test.Unit\obj\Debug\SimpleCalculatorProject.Test.Unit.csproj.CopyComplete
+C:\Users\gr\source\repos\SimpleCalculator\SimpleCalculatorProject.Test.Unit\obj\Debug\SimpleCalculatorProject.Test.Unit.dll
+C:\Users\gr\source\repos\SimpleCalculator\SimpleCalculatorProject.Test.Unit\obj\Debug\SimpleCalculatorProject.Test.Unit.pdb
